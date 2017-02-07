@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_3ffbda1d213f0faa6f24368689d5ef24a186912f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-22.0.0_445932fe6e205d7633323a462efbfaa23b0cab1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7f9cca1caa023a880b00c382bcc5c90245ae4895">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-22.0.0_ab7ff1ee8b219f98e35fc05bf52be3f4d3ea7689/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_0b50489539054ae19b9e0699c8ecfff84be2b5d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="285506e1cf9d5a66878e2aab3884b3427f8734e9">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-22.0.0_111dcdc40b3af82be7617ff04bf789a7747a01a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_25667129490ab0f6a7390b69ae3d024f9ad7b8e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="def3eff2b7b4774d96ae15b07b3fc0111edbfe24">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_95ab09a83a4ad94affa16b52f8e491e0849a648c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_ab203dbae8b21653ec3e42c20bdde05dc38d5f50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_52607a37423fd1e70b95a62ba8f8f65d4c301b1f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="61453c592439549d41fb41de01819b5c47b08794">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3cca03f511fa55e5fb6a4e527c053a6a109e6a6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_db1b7574966399c36ad13f732252e751ffb39553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_1b2ed25b05b328c58097001eb22e85a41265cb46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="21bec933102c5e338c2de66cabb749d1d6e5fe5a">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_380f37194f801239d511d7668ef154911be96c10/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-22.0.0_f273b4122f703d9aa162eba9a1f8f18697f9ff3b/classes.dex" />
+    </item>
+
+</items>
