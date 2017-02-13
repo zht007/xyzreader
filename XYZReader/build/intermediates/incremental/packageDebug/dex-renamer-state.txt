@@ -1,4 +1,4 @@
-#Fri Feb 10 16:27:54 GMT 2017
+#Mon Feb 13 14:49:46 GMT 2017
 base.0=/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_380f37194f801239d511d7668ef154911be96c10
 renamed.1=classes.dex
 renamed.0=classes2.dex

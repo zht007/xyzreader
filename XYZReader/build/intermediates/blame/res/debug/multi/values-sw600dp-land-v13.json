@@ -11,14 +11,7 @@
                     "endOffset": 94
                 },
                 "from": {
-                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 84,
-                        "endColumn": 43,
-                        "endOffset": 123
-                    }
+                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 149
                 },
                 "from": {
-                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 181,
-                        "endColumn": 54,
-                        "endOffset": 231
-                    }
+                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 129,
-                        "endColumn": 51,
-                        "endOffset": 176
-                    }
+                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 249
                 },
                 "from": {
-                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 47,
-                        "endOffset": 79
-                    }
+                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 299
                 },
                 "from": {
-                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 237,
-                        "endColumn": 49,
-                        "endOffset": 282
-                    }
+                    "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/macro_layout.xml"
                 }
             },
             {
@@ -102,9 +67,9 @@
                     "startLine": 7,
                     "startColumn": 4,
                     "startOffset": 304,
-                    "endLine": 9,
+                    "endLine": 10,
                     "endColumn": 12,
-                    "endOffset": 444
+                    "endOffset": 445
                 },
                 "from": {
                     "file": "/Users/hongtao/Dropbox/MyApplication/UdacityProjects/xyzreader/XYZReader/src/main/res/values-sw600dp-land/styles.xml",
@@ -112,9 +77,9 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endLine": 4,
+                        "endLine": 5,
                         "endColumn": 12,
-                        "endOffset": 195
+                        "endOffset": 196
                     }
                 }
             }

@@ -2,5 +2,6 @@
 <resources>
     <style name="DetailTheme" parent="@style/Theme.AppCompat.Light.Dialog.MinWidth">
         <item name="windowNoTitle">true</item>
+
     </style>
 </resources>
